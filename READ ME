@@ -1,0 +1,18 @@
+O **Jogo de Corrida: Campo e Cidade** é uma corrida de obstáculos onde o jogador controla um carro (ou veículo) e deve desviar de obstáculos enquanto percorre dois cenários: **campo** e **cidade**.
+
+### Objetivo:
+
+Evitar obstáculos, como cercas e pedras no campo, e carros na cidade, enquanto avança pelo percurso. O jogo termina se o jogador colidir com um obstáculo. O jogador pode reiniciar pressionando **'R'**.
+
+### Como Jogar:
+
+* Use as **setas do teclado** para mover o carro: **esquerda**, **direita**, **cima** e **baixo**.
+* Quando o jogador chega à cidade, o cenário muda e novos obstáculos aparecem.
+* A **pontuação** aumenta com o tempo, enquanto o jogador desvia dos obstáculos.
+
+### Controles:
+
+* **Setas para mover** o carro.
+* **'R'** para reiniciar após perder.
+
+O jogo é desafiador, e o objetivo é correr o máximo possível sem colidir com os obstáculos, tentando alcançar a maior pontuação.
